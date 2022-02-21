@@ -36,7 +36,7 @@
 <br />
 
  
-![Valentinno's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinnocruz&hide=contribs,prs)
+![Valentinno's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinnocruz&hide=contribs,prs&theme=dracula)
 
 
 
