@@ -23,8 +23,8 @@
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;" />][webdevplaylist
-<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />][webdevplaylist
+<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="26px" src=".https://github.com/devicons/devicon/blob/v2.14.0/icons/unity/unity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="26px" src="https://www.google.com/search?q=unreal+engine+logo&tbm=isch&ved=2ahUKEwibn5-EuZD2AhXkKX0KHTwaDp0Q2-cCegQIABAA&oq=unreal+engine+logo&gs_lcp=CgNpbWcQAzIHCCMQ7wMQJzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoICAAQgAQQsQM6BAgAEEM6BwgAELEDEENQAFjcBGDqBWgAcAB4AIABZ4gB5QOSAQMzLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=XFYTYpuBKuTT9AO8tLjoCQ&bih=1030&biw=1620&client=opera&hs=hBT#imgrc=CNqd7-Mro3PUbM" style="padding-right:10px;" />
@@ -35,7 +35,7 @@
 <br />
 <br />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinnocruz&exclude_repo=github-readme-stats,valentinnocruz.github.io)](https://github.com/valentinnocruz/github-readme-stats)
 
 
 <details>
