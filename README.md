@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![website](https://www.flaticon.com/free-icon/instagram_174855)](https://twitter.com/thehumblejedi#gh-light-mode-only)
+[![website](https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg)](https://twitter.com/thehumblejedi#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/thehumblejedi#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/ValentinnoCruzr#gh-light-mode-only)
