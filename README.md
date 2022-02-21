@@ -37,7 +37,7 @@
 
  
  <a href="https://github.com/valentinnocruz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=valentinnocruz&hide=contribs,prs&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=valentinnocruz&hide=contribs,prs&theme=dracula" />
 </a>
  
 
