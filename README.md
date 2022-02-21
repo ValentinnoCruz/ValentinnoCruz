@@ -30,12 +30,15 @@
 <img align="left" alt="Unity" width="26px" src="https://www.google.com/search?q=unreal+engine+logo&tbm=isch&ved=2ahUKEwibn5-EuZD2AhXkKX0KHTwaDp0Q2-cCegQIABAA&oq=unreal+engine+logo&gs_lcp=CgNpbWcQAzIHCCMQ7wMQJzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoICAAQgAQQsQM6BAgAEEM6BwgAELEDEENQAFjcBGDqBWgAcAB4AIABZ4gB5QOSAQMzLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=XFYTYpuBKuTT9AO8tLjoCQ&bih=1030&biw=1620&client=opera&hs=hBT#imgrc=CNqd7-Mro3PUbM" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+
 
 <br />
 <br />
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinnocruz&exclude_repo=github-readme-stats,valentinnocruz.github.io)](https://github.com/valentinnocruz/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinnocruz&layout=compact)](https://github.com/valentinnocruz/github-readme-stats)
+
 
 
 <details>
