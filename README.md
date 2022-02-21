@@ -39,7 +39,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinnocruz&layout=compact)](https://github.com/valentinnocruz/github-readme-stats)
 
-
+![Valentinno's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinnocruz&hide=contribs,prs)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
