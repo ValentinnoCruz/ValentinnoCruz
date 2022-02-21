@@ -35,17 +35,9 @@
 <br />
 <br />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinnocruz&exclude_repo=github-readme-stats,valentinnocruz.github.io)](https://github.com/valentinnocruz/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinnocruz&layout=compact)](https://github.com/valentinnocruz/github-readme-stats)
-
+ 
 ![Valentinno's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinnocruz&hide=contribs,prs)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Valentinno Cruz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ValentinnoCruz=title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  
 
 
 </details>
