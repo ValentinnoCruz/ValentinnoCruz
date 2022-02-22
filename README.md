@@ -5,7 +5,7 @@
 - 🔭 Check out my linkedin: [Valentinno Cruz][course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Unreal Engine/Unity
+- 🥅 2022 Goals: Find and internship, & Learn more about Unreal Engine/Unity
 - ⚡ Fun fact: I love to hike and have visited 18 National Parks
 
 ### Connect with me:
