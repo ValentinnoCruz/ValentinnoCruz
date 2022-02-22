@@ -10,7 +10,7 @@
 
 ### Connect with me:
 [![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://linkedin.com/in/ValentinnoCruz#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ValentinnoCruz#gh-dark-mode-only)
+[![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://linkedin.com/in/ValentinnoCruz#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/v.da.y#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/v.da.y#gh-dark-mode-only)
