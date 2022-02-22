@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to hike and have visited 18 National Parks
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ValentinnoCruz#gh-light-mode-only)
+[![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://linkedin.com/in/ValentinnoCruz#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ValentinnoCruz#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/v.da.y#gh-light-mode-only)
