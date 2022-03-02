@@ -2,7 +2,7 @@
 
 ## I'm a Runner, Thinker and Aspiring Developer
 
-- 🔭 Check out my linkedin: [Valentinno Cruz](linkedin.com/in/valentinnocruz)
+- 🔭 Connect with me on linked in :grin:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Find and internship, & Learn more about Unreal Engine/Unity
