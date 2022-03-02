@@ -41,3 +41,5 @@
   ![Snake animation](https://github.com/ValentinnoCruz/ValentinnoCruz/blob/094828b1c19456c99c5cd1bca20d05fcc98d4f59/github-contribution-grid-snake.svg)
  
 </div>
+
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=valentinnocruz&repo=react&show_owner=true)](https://github.com/valentinnocruz/react)
