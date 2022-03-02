@@ -42,4 +42,4 @@
  
 </div>
 
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=valentinnocruz&repo=react&show_owner=true)](https://github.com/valentinnocruz/react)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=valentinnocruz)
