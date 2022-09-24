@@ -5,7 +5,7 @@
 - 🔭 Connect with me on linked in :grin:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Find and internship, & Learn more about Unreal Engine/Unity
+- 🥅 2022 Goals: Expand my knowledge in Unreal environment.
 - ⚡ Fun fact: I love to hike and have visited 18 National Parks
 
 
