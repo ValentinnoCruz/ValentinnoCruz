@@ -20,14 +20,17 @@
 <img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://img.icons8.com/?size=256&id=ZIQW0IkyKdZV&format=png)" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/dusk/64/000000/python.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="26px" src="https://camo.githubusercontent.com/73ac9c276d871359879af3a47f5eafe3c343aa9b4b620fb798abde6274afbfc8/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f7765622d6172746566616374732f6e65776d616e2d3132382e706e67" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/?size=100&id=TLI9oiMzpREF&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="26px" src="https://jmeter.apache.org/images/favicon.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://icon.icepanel.io/Technology/svg/pytest.svg" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="26px" src="https://img.icons8.com/color/48/000000/circleci.png" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Unity" width="26px" src="https://img.icons8.com/color/48/000000/circleci.png" style="padding-right:10px;" />
+
 <img align="left" alt="Unreal" width="26px" src="https://img.icons8.com/nolan/64/unreal-engine.png" style="padding-right:10px;" />
 
 </div>
