@@ -3,10 +3,10 @@
 ## I'm a Runner, Thinker and Aspiring Developer
 
 - 🔭 Connect with me on linked in :grin:
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently expanding my automation tools
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2025 Goals: Expand my knowledge in Automation.
-- ⚡ Fun facts: I recently ran 3 marathons and have visited 18 National Parks
+- 🥅 2026 Goals: Expand my knowledge in Development.
+- ⚡ Random fact: I have visited 18 National Parks
 
 
 <div align="left">
