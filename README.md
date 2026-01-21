@@ -35,7 +35,7 @@
 </div>
   
 
-<div style="display: inline_block"><br>
+## <div style="display: inline_block"><br>
 
 
 <img align="left" alt="PS" width="26px" src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" style="padding-right:10px;" />
