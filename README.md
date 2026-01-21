@@ -34,24 +34,14 @@
 
 </div>
   
-
-## <div style="display: inline_block"><br>
-
-
-<img align="left" alt="PS" width="26px" src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" style="padding-right:10px;" />
-<img align="left" alt="Pr" width="26px" src="https://icon.icepanel.io/Technology/svg/Adobe-Premiere-Pro.svg" style="padding-right:10px;" />
-<img align="left" alt="AE" width="26px" src="https://icon.icepanel.io/Technology/svg/After-Effects.svg" style="padding-right:10px;" />
-</div>
-
-
-
-<div>
-  <a href = "mailto:Valentinnocruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/CewputbV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contact@valentinnocruz.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/valentinnocruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ValentinnoCruz/ValentinnoCruz/blob/094828b1c19456c99c5cd1bca20d05fcc98d4f59/github-contribution-grid-snake.svg)
  
 </div>
-
-
-
