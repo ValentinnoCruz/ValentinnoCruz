@@ -31,9 +31,8 @@
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Unreal" width="26px" src="https://img.icons8.com/nolan/64/unreal-engine.png" style="padding-right:10px;" />
-
 </div>
-  
+
 ##
 <div style="display: inline_block">
 <img align="left" alt="PS" width="26px" src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" style="padding-right:10px;" />
@@ -41,7 +40,9 @@
 <img align="left" alt="AE" width="26px" src="https://icon.icepanel.io/Technology/svg/After-Effects.svg" style="padding-right:10px;" />
 </div>
 
-<div style="clear: both; height: 10px;"></div>
+<div style="clear: both; height: 20px;"></div>
+<br>
+<br>
 
 <div align="left">
   <a href = "mailto:contact@valentinnocruz.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
