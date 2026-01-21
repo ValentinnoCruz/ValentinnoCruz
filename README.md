@@ -36,12 +36,14 @@
   
 
 <div style="display: inline_block"><br>
+
+  
 <img align="left" alt="PS" width="26px" src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" style="padding-right:10px;" />
 <img align="left" alt="Pr" width="26px" src="https://icon.icepanel.io/Technology/svg/Adobe-Premiere-Pro.svg" style="padding-right:10px;" />
 <img align="left" alt="AE" width="26px" src="https://icon.icepanel.io/Technology/svg/After-Effects.svg" style="padding-right:10px;" />
 </div>
 
-<div align="left">
+<div>
   <a href = "mailto:Valentinnocruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/valentinnocruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
