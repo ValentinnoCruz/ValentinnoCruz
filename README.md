@@ -12,7 +12,7 @@
 <div align="left">
   <a href="https://github.com/valentinnocruz">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ValentinnoCruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ValentinnoCruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ValentinnoCruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=donut"/>
 </div>
 <div style="display: inline_block"><br>
 
