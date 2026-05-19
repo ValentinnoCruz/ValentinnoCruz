@@ -1,8 +1,8 @@
 # Hi there, I'm Valentinno 👋 
 
-## I'm a Runner, Thinker and Aspiring Developer
+## Curro, ergo sum
 
-- 🔭 Connect with me on linked in :grin:
+- 🔭 Connect with me on linkedin :grin:
 - 🌱 I’m currently expanding my automation tools
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2026 Goals: Expand my knowledge in Development.
