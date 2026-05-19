@@ -1,6 +1,6 @@
 # Hi there, I'm Valentinno 👋 
 
-## Curro, ergo sum
+## I'm a runner, thinker and aspiring developer.
 
 - 🔭 Connect with me on linkedin :grin:
 - 🌱 I’m currently expanding my automation tools
