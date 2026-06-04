@@ -3,10 +3,10 @@
 ## I'm a runner, thinker and aspiring developer.
 
 - 🔭 Connect with me on linkedin :grin:
-- 🌱 I’m currently expanding my automation tools
+- 🌱 I’m currently expanding my automation tools.
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2026 Goals: Expand my knowledge in Development.
-- ⚡ Random fact: I have visited 18 National Parks
+- 🥅 2026 Goals: Expand my knowledge in DevOps.
+- ⚡ Random fact: I have ran 3 Marathons.
 
 
 <div align="left">
