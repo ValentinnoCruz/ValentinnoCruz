@@ -1,6 +1,6 @@
 # Hi there, I'm Valentinno 👋 
 
-## I'm a runner, thinker and Tinkerer.
+## I'm a runner, thinker and tinkerer.
 
 - 🔭 Connect with me on linkedin :grin:
 - 🌱 I’m currently expanding my automation tools.
